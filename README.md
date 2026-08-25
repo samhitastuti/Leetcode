@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/samhitastuti/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0016-3sum-closest](https://github.com/samhitastuti/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [1929-concatenation-of-array](https://github.com/samhitastuti/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/samhitastuti/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/samhitastuti/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/samhitastuti/Leetcode/tree/main/0016-3sum-closest/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/samhitastuti/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
