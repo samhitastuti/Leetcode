@@ -21,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/samhitastuti/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/samhitastuti/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/samhitastuti/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/samhitastuti/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/samhitastuti/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
