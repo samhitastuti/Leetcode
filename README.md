@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/samhitastuti/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/samhitastuti/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/samhitastuti/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/samhitastuti/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [1929-concatenation-of-array](https://github.com/samhitastuti/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/samhitastuti/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/samhitastuti/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/samhitastuti/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/samhitastuti/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/samhitastuti/Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/samhitastuti/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
