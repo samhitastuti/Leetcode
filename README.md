@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/samhitastuti/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/samhitastuti/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/samhitastuti/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/samhitastuti/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1929-concatenation-of-array](https://github.com/samhitastuti/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/samhitastuti/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
@@ -88,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/samhitastuti/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/samhitastuti/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->
